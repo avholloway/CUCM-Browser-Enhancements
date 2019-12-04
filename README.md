@@ -1,4 +1,4 @@
-# CUCM-Browser-Enhancements
+# CUCM Browser Enhancements
 Client side browser scripting to enhance your CUCM administration experience
 
 # Browser and Extension Support
